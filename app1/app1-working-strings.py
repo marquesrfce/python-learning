@@ -9,3 +9,5 @@
 # 4 - Change the given string in order to make all letters lower case. Store the new string in a new variable.
 
 # 5 - Print the variables values to the user.
+
+# Please, push your code to a new branch, named like: your_name-app[number]
